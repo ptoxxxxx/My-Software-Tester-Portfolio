@@ -38,7 +38,7 @@ Now... Certified Software Tester with no commercial experience..
 ## Courses
 
 * [Akademia Testowania]( https://testuj.pl/karta-szkolenia/kurs-it-online-akademia-testowania-dzienna) – testuj.pl
-* [Software Testing Learning Course by guru99](https://www.guru99.com/software-testing.html)
+* [Software Testing Learning Course](https://www.guru99.com/software-testing.html) - guru99
 * [Zajavka]( https://www.zajavka.pl/) – 12 Week Java Bootcamp **(in progress)**
 * [Podstawy web developmentu]( https://websamuraj.pl/kurs/web-developer-w-15-dni-kurs-online/) – Project „Od podstaw do front-end developera” by websamuraj - stage 1/6. 
 * [Front-end średnio zaawansowany]( https://websamuraj.pl/kurs/front-end-zaawansowany-w-15-dni-kurs-online/) – Project „Od podstaw do front-end developera” by websamuraj - stage 2/6. **(in progres)**
@@ -53,7 +53,7 @@ Now... Certified Software Tester with no commercial experience..
 ## Groups on Facebook
 
 * [Tester oprogramowania – wsparcie na starcie]( https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
-* [Testowanie oprogramowania - ]( https://www.facebook.com/groups/141683635854223)
+* [Testowanie oprogramowania]( https://www.facebook.com/groups/141683635854223)
 * [Testowanie oprogramowania – PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470)
 
 
@@ -70,8 +70,8 @@ Now... Certified Software Tester with no commercial experience..
 
 
 ## My Test Documentation
-- [Bug Reports] ( https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing)
-- [Bug Reports] ( https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing)
+- [Bug Reports](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing)
+- [Bug Reports](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing)
 - [Test cases](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing)
 - [Test scenarios](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing)
 
