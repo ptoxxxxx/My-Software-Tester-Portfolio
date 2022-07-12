@@ -1,22 +1,18 @@
 ## About me
 
-My name is Paweł Tomanek. I am ....
-Now... Certified Software Tester with no commercial experience..
+My name is Pawel Tomanek. I am currently building basic skillset and experience of a software tester. 
+Please find below the list where I'll try to keep the track of my progress.
 
 
 ## Tools
 
 * Jira
 * TestRail
-* TestLink
 * Trello
 * Bug Magnet
-* Xmind
-* xPath Finder
 * Postman
 * IntelliJ
 * Github
-* Selenium IDE
 
 
 ## Tech skills
@@ -26,13 +22,7 @@ Now... Certified Software Tester with no commercial experience..
 * SCRUM
 * Software Testing
 * HTML + CSS
-* Java
-* JavaScript
-
-
-## Certificates
-
-* ISTQB: Foundation Level 
+* Java 
 
 
 ## Courses
@@ -41,7 +31,7 @@ Now... Certified Software Tester with no commercial experience..
 * [Software Testing Learning Course](https://www.guru99.com/software-testing.html) - guru99
 * [Zajavka]( https://www.zajavka.pl/) – 12 Week Java Bootcamp **(in progress)**
 * [Podstawy web developmentu]( https://websamuraj.pl/kurs/web-developer-w-15-dni-kurs-online/) – Project „Od podstaw do front-end developera” by websamuraj - stage 1/6. 
-* [Front-end średnio zaawansowany]( https://websamuraj.pl/kurs/front-end-zaawansowany-w-15-dni-kurs-online/) – Project „Od podstaw do front-end developera” by websamuraj - stage 2/6. **(in progres)**
+* [Front-end średnio zaawansowany]( https://websamuraj.pl/kurs/front-end-zaawansowany-w-15-dni-kurs-online/) – Project „Od podstaw do front-end developera” by websamuraj - stage 2/6. **(in progress)**
 
 
 ## Books
@@ -69,11 +59,11 @@ Now... Certified Software Tester with no commercial experience..
 * Jak zacząć w branży IT jako tester? - by [Czy IT jest dla mnie?](https://www.czyitjestdlamnie.pl/)
 
 
-## My Test Documentation
-- [Bug Reports](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing)
-- [Bug Reports](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing)
-- [Test cases](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing)
-- [Test scenarios](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing)
+## My Test Documentation 
+- [Bug Reports](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing) **(under construction)**
+- [Bug Reports](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing) **(under construction)**
+- [Test cases](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing) **(under construction)**
+- [Test scenarios](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing) **(under construction)**
 
 
 ## My projects
