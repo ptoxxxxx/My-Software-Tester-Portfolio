@@ -59,6 +59,8 @@ Please find below the list where I'll try to keep the track of my progress.
 
 * Jak znaleźć pierwszą pracę w branży IT? – by [Czy IT jest dla mnie?](https://www.czyitjestdlamnie.pl/)
 * Jak zacząć w branży IT jako tester? - by [Czy IT jest dla mnie?](https://www.czyitjestdlamnie.pl/)
+* Praca testera: oczekiwania, a rzeczywistość - by [Kodilla.com](https://www.czyitjestdlamnie.pl/](https://www.youtube.com/watch?v=K5MwKEjig24)
+* Zacznij karierę w IT - by [Sii](https://www.czyitjestdlamnie.pl/](https://www.youtube.com/watch?v=K5MwKEjig24](https://sii.pl/wydarzenia/zacznij-kariere-w-it/#)
 
 
 ## My Test Documentation 
