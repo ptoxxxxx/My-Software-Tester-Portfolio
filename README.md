@@ -21,6 +21,7 @@ Please find below the list where I'll try to keep the track of my progress.
 * DevTools
 * SCRUM
 * Software Testing
+* Wordpress platform
 * HTML + CSS
 * Java 
 
@@ -29,6 +30,7 @@ Please find below the list where I'll try to keep the track of my progress.
 
 * [Akademia Testowania]( https://testuj.pl/karta-szkolenia/kurs-it-online-akademia-testowania-dzienna) – testuj.pl
 * [Software Testing Learning Course](https://www.guru99.com/software-testing.html) - guru99
+* [Testowanie produktów cyfrowych (testowanie oprogramowania)](https://www.udemy.com/course/testowanie-produktow-cyfrowych/) - udemy
 * [Zajavka]( https://www.zajavka.pl/) – 12 Week Java Bootcamp **(in progress)**
 * [Podstawy web developmentu]( https://websamuraj.pl/kurs/web-developer-w-15-dni-kurs-online/) – Project „Od podstaw do front-end developera” by websamuraj - stage 1/6. 
 * [Front-end średnio zaawansowany]( https://websamuraj.pl/kurs/front-end-zaawansowany-w-15-dni-kurs-online/) – Project „Od podstaw do front-end developera” by websamuraj - stage 2/6. **(in progress)**
@@ -61,7 +63,7 @@ Please find below the list where I'll try to keep the track of my progress.
 
 ## My Test Documentation 
 - [Bug Reports](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing) **(under construction)**
-- [Bug Reports](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing) **(under construction)**
+- [Test Reports](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing)
 - [Test cases](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing) **(under construction)**
 - [Test scenarios](https://drive.google.com/drive/folders/1V4r4Qxpkx5OVw_1QH7-MrnZ12PVB3cVv?usp=sharing) **(under construction)**
 
