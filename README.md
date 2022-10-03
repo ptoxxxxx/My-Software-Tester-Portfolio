@@ -1,6 +1,6 @@
 ## About me
 
-My name is Pawel Tomanek. I am currently building basic skillset and experience of a software tester. 
+My name is Pawel Tomanek. I am currently building a basic skillset and getting experience of a software tester. 
 Please find below the list where I'll try to keep the track of my progress.
 
 
@@ -13,20 +13,25 @@ Please find below the list where I'll try to keep the track of my progress.
 * Postman
 * IntelliJ
 * Github
+* DevTools
+* Selenium IDE
 
 
 ## Tech skills
 
-* SQL
-* DevTools
+* SQL basics
 * SCRUM
 * Software Testing
 * Wordpress platform
 * HTML + CSS
-* Java 
+* Java basics
 
 
-## Courses
+## Certificates
+ISTQB - No18533/CTFL/2022
+
+
+## Courses & Workshops
 
 * [Akademia Testowania]( https://testuj.pl/karta-szkolenia/kurs-it-online-akademia-testowania-dzienna) – testuj.pl
 * [Software Testing Learning Course](https://www.guru99.com/software-testing.html) - guru99
@@ -34,12 +39,15 @@ Please find below the list where I'll try to keep the track of my progress.
 * [Zajavka]( https://www.zajavka.pl/) – 12 Week Java Bootcamp **(in progress)**
 * [Podstawy web developmentu]( https://websamuraj.pl/kurs/web-developer-w-15-dni-kurs-online/) – Project „Od podstaw do front-end developera” by websamuraj - stage 1/6. 
 * [Front-end średnio zaawansowany]( https://websamuraj.pl/kurs/front-end-zaawansowany-w-15-dni-kurs-online/) – Project „Od podstaw do front-end developera” by websamuraj - stage 2/6. **(in progress)**
+* [API HTTP]( https://kursy.czyitjestdlamnie.pl/) – czyitjestdlamnie.pl
+* [Basic JavaScript]( https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) – freecodecamp/classcentral
 
 
 ## Books
 
 * R. Smilgin – Zawód Tester
 * A. Roman, L. Stapp – Certyfikowany tester ISTQB poziom podstawowy
+* T. Linz – Testowanie w procesie Scrum
 
 
 ## Groups on Facebook
@@ -53,6 +61,8 @@ Please find below the list where I'll try to keep the track of my progress.
 * [testerzy.pl](https://testerzy.pl/)
 * [remigiuszbednarczyk.pl]( https://remigiuszbednarczyk.pl/)
 * [Testowanie oprogramowania - pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+* [szkoleniedlaqa.pl - QA Weekly newsletter](https://szkoleniedlaqa.pl/)
+
 
 
 ## Webinars
@@ -61,6 +71,7 @@ Please find below the list where I'll try to keep the track of my progress.
 * Jak zacząć w branży IT jako tester? - by [Czy IT jest dla mnie?](https://www.czyitjestdlamnie.pl/)
 * Praca testera: oczekiwania, a rzeczywistość - by [Kodilla.com](https://www.youtube.com/watch?v=K5MwKEjig24)
 * Zacznij karierę w IT - by [Sii](https://sii.pl/wydarzenia/zacznij-kariere-w-it/#)
+* 5 technik testów API - by [jaktestowac.pl](https://jaktestowac.pl/webinar-5-technik-testow-api/)
 
 
 ## My Test Documentation 
