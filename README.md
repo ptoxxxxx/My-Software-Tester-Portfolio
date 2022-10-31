@@ -15,6 +15,7 @@ Please find below the list where I'll try to keep the track of my progress.
 * Github
 * DevTools
 * Selenium IDE
+* Xmind
 
 
 ## Tech skills
@@ -72,6 +73,8 @@ ISTQB - No18533/CTFL/2022
 * Praca testera: oczekiwania, a rzeczywistość - by [Kodilla.com](https://www.youtube.com/watch?v=K5MwKEjig24)
 * Zacznij karierę w IT - by [Sii](https://sii.pl/wydarzenia/zacznij-kariere-w-it/#)
 * 5 technik testów API - by [jaktestowac.pl](https://jaktestowac.pl/webinar-5-technik-testow-api/)
+* Porozmawiajmy o DevTools'ach! - by [JavaGirl - Emilia Lendzion-Barszcz](https://www.facebook.com/events/637554867993079/)
+
 
 
 ## My Test Documentation 
